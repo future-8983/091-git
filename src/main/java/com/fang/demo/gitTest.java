@@ -8,6 +8,7 @@ public class gitTest {
         System.out.println("这是hot-fix提交！");
         System.out.println("这是master 1");
         System.out.println("push");
+        System.out.println("push2");
     }
 
 }
